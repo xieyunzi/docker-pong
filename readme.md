@@ -1,4 +1,4 @@
-docker pull xieyunzi/pong
-docker-compose up
+    docker pull xieyunzi/pong
+    docker-compose up
 
-curl localhost:12280
+    curl localhost:12280
